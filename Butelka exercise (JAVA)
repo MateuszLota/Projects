@@ -31,7 +31,7 @@ public class Butelka {
         gdziePrzelac.wlej(ilosc);
     }
    
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
     
     Butelka[] butelka = new Butelka[3]; 
   
